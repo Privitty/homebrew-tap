@@ -2,9 +2,7 @@
 
 ## How do I install these formulae?
 
-`brew install privitty/tap/<formula>`
-
-Or `brew tap privitty/tap` and then `brew install <formula>`.
+`brew tap privitty/tap` and then `brew install --casks privitty-chat`.
 
 Or, in a `brew bundle` `Brewfile`:
 
