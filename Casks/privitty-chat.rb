@@ -1,6 +1,6 @@
 cask "privitty-chat" do
   version "1.3.0"
-  sha256 "c3dd1b949a12d238ebeb0387264278eb17b67e5502d8800e855a864d9cf0d223"
+  sha256 "91eed59e53455d01d5036b0f0b424a1ddee9e3e1d88fbeb68b501b4c4a8afa46"
 
   url "https://github.com/Privitty/privitty-desktop/releases/download/v1.3.0/PrivittyChat-1.3.0-universal-signed.dmg"
   name "Privitty Chat"
